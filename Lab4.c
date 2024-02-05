@@ -1,6 +1,10 @@
 #include<stdio.h>
     /*
+<<<<<<< HEAD
+
+=======
     int a, b, gcd, e, f, g;
+>>>>>>> origin/main
     printf("...");
     scanf("%d %d", &a, &b);
     for (int i = 1; i <= a && i <= b; ++i){
