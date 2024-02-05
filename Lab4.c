@@ -20,6 +20,7 @@ int main(void){
     printf("%d", pussy);
     return 0; 
 }
+// dynasty 
 */
 /*
 #include"Lab4_Ex3_f.h"
